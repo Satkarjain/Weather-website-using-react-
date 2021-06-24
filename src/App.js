@@ -37,7 +37,7 @@ function App()
     
     const Historyclick = (id) =>{
        
-        console.log("Here is the id of city you clicked  ",id);
+        console.log("Here is the id11 of city you clicked  ",id);
         onchangeedit1(Cityhistory[id-1].city);
 
     }
